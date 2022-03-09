@@ -5,8 +5,6 @@
   Visit me on:<br>
   <a href="https://www.linkedin.com/in/jason-comstock-78781212b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="JMComstock"></a>
    <br>
-  You can also reach out via <a href="mailto:jasoncomstock11@gmail.com">email 📧</a>
-  <br>
   <hr>
   <br>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMComstock&layout=compact&theme=github_dark&langs_count=9" alt="JMComstock"/>
