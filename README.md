@@ -1,7 +1,7 @@
 <h1 align="center" font-size="100px">Hi 👋, I'm Jason Comstock</h1>
 <h3 align="center">I am an analytically minded individual who likes to solve problems with code.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JMComstock" alt="JMComstock" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JMComstock=ryo-ma&theme=onedark" alt="JMComstock" /></a> </p>
 
 
 <!--
