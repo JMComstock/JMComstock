@@ -1,7 +1,8 @@
 <h1 align="center" font-size="100px">Hi 👋, I'm Jason Comstock</h1>
 <h3 align="center">I am an analytically minded individual who likes to solve problems with code.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?JMCosmtock=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JMComstock" alt="JMComstock" /></a> </p>
+
 
 <!--
 **JMComstock/JMComstock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
