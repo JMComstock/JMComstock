@@ -1,3 +1,5 @@
+<img height="25em" src="https://komarev.com/ghpvc/?username=JMComstock" />
+
 <h1 align="center" font-size="100px">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Jason Comstock</h1>
 <h3 align="center">I am an analytically minded individual who likes to solve problems with code.</h3>
 
