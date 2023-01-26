@@ -5,12 +5,12 @@
   Visit me on:<br>
   <a href="https://www.linkedin.com/in/jasonmcomstock/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="JMComstock"></a>
    <br>
-  <!--<hr>
+  <hr>
   <br>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMComstock&layout=compact&theme=github_dark&langs_count=9" alt="JMComstock"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=JMComstock&count_private=true&theme=github_dark" alt="JMComstock"/>
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JMComstock&theme=highcontrast" alt="JMComstock"/>
-  <br>-->
+  <br>
   <hr>
 
   <h3>Languages and tools</h3>
